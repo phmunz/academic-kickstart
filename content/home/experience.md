@@ -18,27 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Associate"
+  company = "Senckenberg Centre for Human Evolution and Paleoenvironment (S-HEP)"
+  company_url = "https://www.senckenberg.de/de/institute/shep/"
+  location = "Tübingen, DE"
+  date_start = "2017-02-15"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
+  * Lab work
+  * Analyzing
+  * Teaching
   * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
+  title = "Postdoc"
+  company = "University of Tübingen"
+  company_url = "https://geo.uni-tuebingen.de"
+  location = "Tübingen, DE"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Source-to-sink studies at Lake Chilwa, Malawi, within the projekt Human Paleobiomics."""
 
+[[experience]]
+  title = "Phd student"
+  company = "University of Tübingen"
+  company_url = "https://geo.uni-tuebingen.de"
+  location = "Tübingen, DE"
+  date_start = "2011-05-01"
+  date_end = "2014-07-31"
+  description = """Seasonal reconstructions of the Indian monsoon at ultra-high resolution, biennial to decadal scale. Detailed dynamics of the winter monsoon and implications for societies over the last 2000 years."""
 +++
