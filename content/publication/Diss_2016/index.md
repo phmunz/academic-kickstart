@@ -1,0 +1,22 @@
+---
+title: "Studying the Indian monsoon variability over the Early Holocene and Common Era in high resolution with numerical reconstructions based on planktic foraminifera"
+
+authors:
+- admin
+
+abstract: The Indian Monsoon is an impressive seasonal climate phenomenon and an important driver for the inter-hemispheric transport of heat and moisture. Due to the strongly seasonal character, the Indian Monsoon is subdivided into the Indian Summer Monsoon (ISM), which is most intense from July to September, and the In- dian Winter Monsoon (IWM), which generally occurs from January to March. The ISM and accompanied precipitation is an important source of freshwater, because it brings most of the annual rainfall to India and its neighbouring countries. To assess the future development of ISM variability is therefore of utmost importance for the economic prosperity and agricultural development in one of the worlds’ most densely populated regions. The understanding of potential ISM response to different scenarios of future climate changes requires detailed knowledge of the monsoon history. It is therefore vital to study archives of past ISM variability on time scales that are important for societal development, i.e. years to decades. Furthermore, our understanding of the monsoon system and its potential driving forces is incomplete without better knowledge of IWM variability. Due to the extreme seasonality of the Indian Monsoon, induced by the opposing direction of the prevailing surface winds, the monsoons exert a strong influence on the hydrography of the Arabian Sea. The ISM is characterized by intensive upwelling, associated with surface water cooling and elevated surface water productivity in the northwestern Arabian Sea. The dry and cold winds of IWM are associated with evaporative cooling of surface waters and convective deepening of the mixed-layer, which leads to nutrient entrainment and elevated surface water productivity in the northeastern part of the basin. High primary productivity and reduced ventilation of intermediate waters leads to strong and stable oxygen deficient conditions at mid-depth. The conditions within the oxygen minimum zone (OMZ) favor the removal of nitrogen via reduction of biologically available inorganic nitrogen to nitrous oxide (N2O), which is an important greenhouse gas. This thesis focuses on the reconstruction of both seasonal monsoon components throughout three relatively short time slices of the Holocene epoch in ultra high resolution using a collaborative multi-proxy approach. In order to study past changes of the monsoon seasons, three hemipelagic sediment cores from the Arabian Sea region were studied. One core from the northern Oman margin is deposited under the dominant influence of ISM conditions, whereas two other cores from the Pakistan margin are mainly under IWM influence. Sea surface temperatures (SST) derived from transfer functions based on census counts of planktic foraminifera were studied in comparison to geochemical proxies, alkenone biomarkers and trace elemental composition in planktic foraminiferal calcite. During the first of the three time slices, the last 250 years, IWM conditions were coupled to large-scale oscillation patterns originating in the Pacific (El Niño- Southern Oscillation, ENSO and Pacific Decadal Oscillation, PDO) and Atlantic (North Atlantic Oscillation, NAO). The coupling, however, was not stable but weakened since the beginning of the 20th century. Phases of very intense IWM conditions were coupled to NAO, suggesting a strong extratropical link to the monsoon climate. Over the second interval, the last 2,000 years, the ’Common Era’ (CE) variations of IWM conditions on centennial-scales were linked climatic warm phases of the North Atlantic region, namely the end of the ’Roman Warm Period’ (at ~450 CE) and the ’Medieval Warm Period’ (~950–1250 CE). The third interval during the early- to mid-Holocene is marked by more intense ISM conditions compared to modern times. The results further suggest, that, instead of water mass changes, bottom-water OMZ conditions were controlled by surface water processes during weak ISM phases.
+
+# Publication name and optional abbreviated publication name.
+publication: "*Doctoral thesis*, University of Tübingen"
+publication_short: ""
+
+#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+
+date: 2016-07-13T00:00:00+01:00
+doi: "10.15496/publikation-12957"
+publication_types: ["7"]
+
+tags:
+- Planktic foraminifera
+featured: false
+---
