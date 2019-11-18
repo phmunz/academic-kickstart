@@ -23,4 +23,8 @@ publication_short: ""
 date: 2018-10-17T00:00:00+01:00
 doi: "10.1177/0959683618804627"
 publication_types: ["2"]
+
+tags:
+- Paleoclimate
+featured: true
 ---

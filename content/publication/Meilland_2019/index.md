@@ -35,5 +35,5 @@ publication_types: ["2"]
 
 tags:
 - Planktic foraminifera
-featured: false
+featured: true
 ---

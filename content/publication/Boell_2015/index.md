@@ -21,4 +21,8 @@ publication_short: ""
 date: 2015-05-15T00:00:00+01:00
 doi: "10.1016/j.palaeo.2015.02.036"
 publication_types: ["2"]
+
+tags:
+- Paleoclimate
+featured: true
 ---

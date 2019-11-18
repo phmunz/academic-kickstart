@@ -25,4 +25,8 @@ publication_short: ""
 date: 2014-07-18T00:00:00+01:00
 doi: "10.1002/2013PA002579"
 publication_types: ["2"]
+
+tags:
+- Paleoclimate
+featured: true
 ---
