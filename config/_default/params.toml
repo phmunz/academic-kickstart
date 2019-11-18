@@ -97,7 +97,7 @@ address = {street = "Hölderlinstr. 16", city = "Tübingen", postcode = "72074",
 coordinates = {latitude = "48.526512", longitude = "9.059657"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Enter the main entrance and turn left to take the stairs to Office 406 on Floor 3"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
