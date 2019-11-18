@@ -6,7 +6,7 @@ authors:
 - Nicole Burdanowitz
 - Andreas Lückge
 - Venkitasubramani Ramaswamy
-- Philipp Munz
+- admin
 - Dorothee Wilhelms-Dick
 - Christoph Vogt
 - Sabine Kasten

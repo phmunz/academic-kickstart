@@ -32,4 +32,8 @@ publication_short: ""
 date: 2019-02-25T00:00:00+01:00
 doi: "10.1093/plankt/fbz002"
 publication_types: ["2"]
+
+tags:
+- Planktic foraminifera
+featured: false
 ---
