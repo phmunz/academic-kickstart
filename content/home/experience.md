@@ -29,8 +29,8 @@ date_format = "Jan 2006"
   
   * Lab work
   * Analyzing
-  * Teaching
   * Deploying
+  * Teaching
   """
 
 [[experience]]
