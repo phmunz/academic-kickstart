@@ -29,9 +29,6 @@ Diurnal vertical migration (DVM) is a widespread phenomenon in the upper ocean, 
 publication: "*Journal of Plankton Research, 41*(2)"
 publication_short: ""
 
-links:
-- name: Custom Link
-  url: http://example.org
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 
 date: 2019-02-25T00:00:00+01:00
