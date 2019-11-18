@@ -24,5 +24,5 @@ publication_types: ["2"]
 
 tags:
 - Paleoclimate
-featured: true
+featured: false
 ---
