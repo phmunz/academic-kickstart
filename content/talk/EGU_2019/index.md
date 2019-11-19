@@ -6,14 +6,14 @@ date: 2019-04-12T11:00:00+01:00
 draft: false
 location: Austria Center Vienna (ACV)
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Bruno-Kreisky-Platz 1
+  city: Vienna
+  region: 
+  postcode: 1220
+  country: Austria
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Talk about latest results from core GeoTÜ-KL15 from the Gulf of Aden over the last 550,000 years.
+abstract: "Recent  archeological  and  genetic  evidence  suggests  that  anatomically  modern  humans  migrated  out  of  Africapotentially as early as ~220,000 years B.P. Understanding the dynamics of cultural, technological and societalevolution ofHomo sapiensneeds profound knowledge of associated environmental conditions. To better under-stand how and why migrations occurred, a detailed framework of hydroclimatic conditions, vegetation and landcover are needed. However, interpretations of terrestrial and marine proxy records often differ significantly andhigh-resolution data are scarce.Here we present new results of from a 22 m long marine hemipelagic sediment core from the Gulf of Aden. TheGulf is surrounded by East African and Southern Arabian landmasses and in close proximity to key archaeologicalsites. The record provides a continuous, detailed and well-dated reconstruction of terrestrial and marine climatechange over the last ~550,000 years, spanning the entire history of human evolution from Early Stone Age tothe Holocene. The core offers a sampling resolution of ~250 years, enabling robust estimations of cyclic climatemodulations and potential forcing mechanisms. We used geochemical proxies (XRF) indicative of dust input andaridity on land, marine productivity and monsoon intensity in comparison with high-resolution speleothem recordson  land.  Our  results  indicate  that  climate  change  was  strongly  modulated  on  ~100-ka  eccentricity  and  ~20-kaprecessional bandwidth. The data further allows to study the pattern and development of climate fluctuations duringHolocene-like interglacials as potential analogs for future climate change in this densely populated region."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
+authors: [admin, Hartmut Schulz, Dominik Fleitmann, Annett Junginger]
 tags: []
 
 # Is this a featured talk? (true/false)
