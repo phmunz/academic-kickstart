@@ -16,8 +16,8 @@ abstract: "Recent  archeological  and  genetic  evidence  suggests  that  anatom
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: " 2019-04-12T11:00:00+01:00"
-date_end: " 2019-04-12T11:15:00+01:00"
+date: "2019-04-12T11:00:00+01:00"
+date_end: "2019-04-12T11:15:00+01:00"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
