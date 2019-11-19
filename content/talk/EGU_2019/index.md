@@ -3,6 +3,7 @@ title: Climate conditions at the Horn of Africa and opportunities for modern hum
 event: EGU General Assembly, Vienna (Austria) 
 event_url: https://www.egu2019.eu/
 draft: false
+
 location: Austria Center Vienna (ACV)
 address:
   street: Bruno-Kreisky-Platz 1
@@ -62,7 +63,7 @@ projects:
 # Enable math on this page?
 math: true
 ---
-
+<!---
 {{% alert note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /alert %}}
@@ -74,4 +75,4 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
 Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
-
+--->
