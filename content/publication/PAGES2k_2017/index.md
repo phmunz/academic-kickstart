@@ -117,4 +117,16 @@ publication_types: ["2"]
 tags:
 - Paleoclimate
 featured: false
+
+# links:
+# - name: ""
+   url: "https://www.nature.com/articles/sdata201788"
+#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://doi.org/10.5281/zenodo.545815'
+#url_dataset: 'https://doi.pangaea.de/10.1594/PANGAEA.894290'
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 ---

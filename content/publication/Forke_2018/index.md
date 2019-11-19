@@ -27,4 +27,16 @@ publication_types: ["2"]
 tags:
 - Paleoclimate
 featured: false
+
+# links:
+# - name: ""
+#   url: ""
+#url_pdf: http://arxiv.org/pdf/1512.04133v1
+#url_code: ''
+url_dataset: 'https://doi.pangaea.de/10.1594/PANGAEA.894290'
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 ---
