@@ -2,14 +2,13 @@
 title: Climate conditions at the Horn of Africa and opportunities for modern human dispersal
 event: EGU General Assembly, Vienna (Austria) 
 event_url: https://www.egu2019.eu/
-date: 2019-04-12T11:00:00+01:00
 draft: false
 location: Austria Center Vienna (ACV)
 address:
   street: Bruno-Kreisky-Platz 1
-  city: Vienna
+  city: 1220 Vienna
   #region: 
-  postcode: 1220
+  #postcode: 1220
   country: Austria
 
 summary: Talk about latest results from core GeoTÜ-KL15 from the Gulf of Aden over the last 550,000 years.
@@ -17,8 +16,8 @@ abstract: "Recent  archeological  and  genetic  evidence  suggests  that  anatom
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: " 2019-04-12T11:00:00+01:00"
+date_end: " 2019-04-12T11:15:00+01:00"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -31,14 +30,15 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Annett Junginger**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  # caption: 'Image credit: [**Name**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/philmunz
 url_code: ""
 url_pdf: ""
 url_slides: ""
