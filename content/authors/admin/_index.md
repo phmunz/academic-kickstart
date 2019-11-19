@@ -69,4 +69,4 @@ user_groups:
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a paleoceanographer who uses planktic foraminifera and paleoecological transfer functions to reconstruct past sea surface conditions. This can enable us to draw implications on states of the regional and global climate. My current project focuses on the Mid- to Late Pleistocene in the area around the Gulf of Aden and the Red Sea. My research there aims at investigating Arabian and East African aridity. I am teaching currently at the University of Tübingen in Paleoclimatology and Micropaleontology. 
